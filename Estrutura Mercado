@@ -1,0 +1,52 @@
+Estrutura de um mercado
+
+Seções dentro de um mercado
+Caixa
+Padaria
+Açougue
+Horti-Fruti
+Limpeza
+Frios
+Bebidas
+Higiene Pessoal
+Cama-Mesa-Banho
+Eletrodomésticos
+Cereais
+Doces
+Financeiro
+RH
+Carrinhos para compras
+Estacionamento
+
+Produtos
+Preço de aquisição do produto
+Preço de revenda do produto
+Lucro por item de determinado produto
+
+Funcionários
+Salário dos Funcionários
+Férias dos funcionários
+Registro cartão ponto
+Folha de pagamento
+Escala de funcionário para trabalhar aos domingos e feriados
+Escala de horários dos trurnos dos funcionários
+
+Clientes
+Identificação de cliente fidelidade
+CPF na nota
+Registro de mercadoria no caixa
+Soma total da compra
+Forma de Pagamento 
+Débito
+Crédito
+Emissão de cupom fiscal
+
+Pagamento fornecedores
+
+Estoque
+Entrada de Notas Fiscais dos produtos
+Contagem por item
+Conferência de estoque
+Controle de vencidos
+Produtos danificados
+Sobra de estoque
