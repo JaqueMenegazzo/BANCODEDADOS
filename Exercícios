@@ -1,9 +1,41 @@
 Exercícios
+
 O que são dados?
+Dados são conjuntos de informações que podem ser processadas por um sistema de computador. Essas informações depois de analisadas podem se tornar úteis para tomadas de decisão dentro de empresas e negócios.
+
 O que é um Banco de Dados?
+É um repositório capaz de armazenar e gerenciar os dados que foram guardadas nele.
+
 Para que servem os bancos de dados?
+Para armazenar, organizar, estruturar e recuperar dados. Também serve para proteger os dados (Segurança, consistência e integridade dos dados). É possivel fazer compartilhamentos e integração de aplicações,
+escalabilidade e backup.
+
 Que tipos de problemas resolvemos com a utilização de Bancos de Dados?
+Organização de informações, acesso rápido, compartilhamento, privacidade e segurança, backup e recuperação, gerenciamento de transações, escalabilidade, inteligência de negócios.
+
 O que são os SGBD'S?
+Sistemas de gerenciamento de banco de dados.
+
 O que é a linguagem SQL?
+Linguagem padrão para trabalhar com dados relacionais.
+
 O que é a linguagem NoSQL?
+NoSQL não se caracteriza como uma linguagem e sim como um conjunto de banco de dados que armazenam os dados de forma diferente das tabalas relacionais.
+
+
 Explique a arquitetura de três camadas (Cliente - Aplicação - Servidor)
+
+Cliente é a camada de apresentação. É a interface de usuário. Nessa camada o usuário interage com a aplicação. Em sua construção normalmente são usados HTML, JavaScript e CSS.
+Aplicação é a camada intermediária, considerada o coração da aplicação. Aqui são processadas as informações coletadas na camada de apressentação. É desenvolvido em Phyton, Php, Ruby.
+Servidor ou camada de dados é camada em que os dados processadas pela aplicação são armazenados e gerenciados. Sistemas de gerenciamento: Oracle, PostgreSQL, MariaBD entre outros.
+
+
+
+Referências:
+
+https://www.alura.com.br/artigos/banco-de-dados
+https://www.ibm.com/br-pt/think/topics/database#1003835715
+https://www.loadview-testing.com/pt-br/blog/5-problemas-e-correcoes-de-desempenho-de-banco-de-dados-mais-comuns/
+https://www.alura.com.br/artigos/o-que-e-sql
+https://www.oracle.com/br/database/nosql/what-is-nosql/
+https://www.ibm.com/br-pt/think/topics/three-tier-architecture
