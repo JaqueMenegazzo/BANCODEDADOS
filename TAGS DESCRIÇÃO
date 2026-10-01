@@ -1,0 +1,15 @@
+
+
+
+DIV - Conteiner -Delimitação de conteúdo
+pre - texto pré-formatado
+enter vai seguir à risca
+tabulação
+
+Blockquote citação longa - referência que veio de algum lugar, dentro dessa tag eu tenho um atributo CITY="
+<blockquote city = "yo-yo-hacksho">
+rapadura é doce, mas não é mole não.
+</blockquote>
+figure - (coloca a figura)
+figure caption - conteúdo acompanhados de legendas (img, gráficos, trechos de código)
+HR- Se
