@@ -1,0 +1,41 @@
+Modelo Relacional: São dados que se relacionam;
+Foi criado por Ted Codd da IBM
+Coleção de relações
+
+Conceitos relacionais:
+Tabelas
+Tuplas
+Colunas
+Registro
+Chave primária
+Chave estrangeira
+
+TUPLAS:
+Conjunto não ordenados de linhas
+
+TABELAS:
+Cada tabela possui um nome único
+O nome deve estar no plural
+Não pode ter assento
+Começo com a letra maiuscula
+Não pode ter espaço, pontuação ou caracteres especiais
+
+COLUNAS/ATRIBUTOS
+Coluna/Atributo é a mesma coisa
+Atributos são as características
+Nome é o atributo
+Registro- informação
+Informação juntas são um dado
+
+CHAVE PRIMÁRIA (PK)
+Uma ou mais colunas cujos valores distinguem uma linha das demais dentro de uma tabela
+Id não é obrigatório, mas é o ideal
+Id possuo nomear com números e letras
+Registro utilizado para identificar a tupla
+Campo obrigatório
+Registro único
+
+CHAVE ESTRANGEIRA
+Faz referência a chave primária de outra tabela
+
+Clean Code LIVRO
