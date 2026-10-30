@@ -1,0 +1,25 @@
+O QUE É UM MODELO DE ENTIDADE- RELACIONAMENTO (MER)?
+O MER é uma técnica de modelagem de dados utilizada para representar visualmente a estrutura de um banco de dados. Ele ajuda a organizar as informações de um sistema, identificando quais são os principais objetos (entidades) e como eles se relacionam.
+O MER facilita o planejamento e a construção de bancos de dados ao oferecer uma visão clara e organizada dos dados e suas conexões.
+COMPONENTES PRINCIPAIS DO MER:
+ENTIDADE: Representa um objeto ou conceito importante para o sistema, como "Cliente realiza pedido".
+RELACIONAMENTO: Define como as entidades se conectam entre si, como "Cliente realiza Pedido".
+ATRIBUTOS: São as características ou propriedade das entidades, como "Nome", "Data de Nascimento", "Preço"
+
+ENTIDADE: Uma entidade é um objeto ou conceito do mundo real que possui significado para o sistema de banco de dados. Cada entidade representa algo que precisa ser armazenado e gerenciado, como "Aluno", "Professor" ou "Curso".
+Possui dois tipos
+Entidade forte: É uma entidade que existe de forma independente. Possui sua própria chave primária que identifica de maneira única no sistema.
+Entidade fraca: É uma entidade que depende de outra para existir. Ela não possui uma chave primária própria e precisa de chave de uma entidade forte para ser identificada.
+
+ATRIBUTOS: OS atributos  são as características ou propriedades que descrevem uma entidade ou um relacionamento. Eles armazenam os dados associados a cada entidade no banco de dados. Representados por elipses.
+RELACIONAMENTO: Um relacionamento MER descreve como duas ou mais entidades estão concetadas entre si. Ele indica interações ou associações entre as  entidades no banco de dados.
+É uma associação entre entidades. Representado por meio de um losângula e linhas que ligam as entidades relacionadas.
+Os nomes dos relacionamentos são indicados por verbos.
+CARDINALIDADE:
+SGBD:
+TABELA:
+COLUNA:
+TUPLA:
+CHAVE PRIMÁRIA:
+CHAVE ESTRANGEIRA:
+REGISTRO:
